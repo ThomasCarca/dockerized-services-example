@@ -30,7 +30,6 @@ build and run the containers :
 
 `docker-compose up -d`
 
-![enter image description here](https://lh3.googleusercontent.com/xWO9sgbuOuMoETbmqKtDJCUdRJeHauJnWNytL9dXCTvIouLeXikOqzbRJ34OnBtuzT6_mjzwCtyH)
 The containers are now up and running, you can access the web app via http://localhost:9000/
 
 ## Notes
